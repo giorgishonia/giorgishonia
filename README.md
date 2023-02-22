@@ -7,8 +7,8 @@
   </div>
 </div>
 
-<img src="https://i.pinimg.com/originals/80/15/d0/8015d0f57ecd0b56d4592e10f58ba8dc.gif" alt="GUTS" width="50%" />
-<img src="https://thumbs.gfycat.com/ImpassionedClutteredFallowdeer-size_restricted.gif" alt="GRIFFITH" width="50%" />
+<img src="https://i.pinimg.com/originals/80/15/d0/8015d0f57ecd0b56d4592e10f58ba8dc.gif" alt="GUTS" width="49%" />
+<img src="https://thumbs.gfycat.com/ImpassionedClutteredFallowdeer-size_restricted.gif" alt="GRIFFITH" width="49%" />
 
 
 <h1>Socials</h1>
