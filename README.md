@@ -1,4 +1,5 @@
-![teserk](https://user-images.githubusercontent.com/69073534/220652962-e5733548-2572-41a2-85a7-c45a76850817.gif)
+![c850f5504c91d3dc6c8132484615a5df](https://user-images.githubusercontent.com/69073534/220661759-cb0a8e09-dfe4-423c-b012-3795d7f47077.gif)
+
 
 <h1>Socials</h1>
 
