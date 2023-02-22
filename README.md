@@ -8,6 +8,9 @@
 
 <h1>Github Pages</h1>
 
-Check out my Etch-a-Sketch project [here](https://giorgishonia.github.io/Etch-a-sketch/)!
-Check out my rock-paper-scissors game [here](https://giorgishonia.github.io/Rock_paper_scissors/)!
+Check out my projects:
+
+- Rock-paper-scissors game: [https://giorgishonia.github.io/Rock_paper_scissors/](https://giorgishonia.github.io/Rock_paper_scissors/)
+- Etch-a-Sketch project: [https://giorgishonia.github.io/Etch-a-sketch/](https://giorgishonia.github.io/Etch-a-sketch/)
+
 
