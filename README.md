@@ -3,8 +3,8 @@
 <img src="https://thumbs.gfycat.com/ImpassionedClutteredFallowdeer-size_restricted.gif" alt="GRIFFITH" width="50%" />
 </div>
 
-<img src="https://thumbs.gfycat.com/ImpassionedClutteredFallowdeer-size_restricted.gif" alt="GRIFFITH" width="50%"/>
 <img src="https://i.pinimg.com/originals/80/15/d0/8015d0f57ecd0b56d4592e10f58ba8dc.gif" alt="GUTS" width="50%"/>
+<img src="https://thumbs.gfycat.com/ImpassionedClutteredFallowdeer-size_restricted.gif" alt="GRIFFITH" width="50%"/>
 <h1>Socials</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010171811268/)
