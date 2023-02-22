@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lVAD5rMM1WkIKGKFMyX6I2lj_Dct8xkg_SoX5dzX&s" alt="GUTS" width="100%" height="auto" />
+<img src="https://i.pinimg.com/originals/cb/9d/d2/cb9dd263099adac75b965e94d15b06b4.gif" alt="GUTS" width="100%" height="auto" />
 
 
 
