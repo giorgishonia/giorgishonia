@@ -1,4 +1,5 @@
-![c850f5504c91d3dc6c8132484615a5df](https://user-images.githubusercontent.com/69073534/220661759-cb0a8e09-dfe4-423c-b012-3795d7f47077.gif)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lVAD5rMM1WkIKGKFMyX6I2lj_Dct8xkg_SoX5dzX&s" alt="GUTS" width="100%" height="auto" />
+
 
 
 <h1>Socials</h1>
