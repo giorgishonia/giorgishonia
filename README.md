@@ -6,4 +6,8 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monkey_gay_midget/)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shonoo.o/)
 
+<h1>Github Pages</h1>
+
+Check out my Etch-a-Sketch project [here](https://giorgishonia.github.io/Etch-a-sketch/)!
+Check out my rock-paper-scissors game [here](https://giorgishonia.github.io/Rock_paper_scissors/)!
 
