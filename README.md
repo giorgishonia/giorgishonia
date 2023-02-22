@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/cb/9d/d2/cb9dd263099adac75b965e94d15b06b4.gif" alt="GUTS" width="100%" height="auto" />
+<img src="https://i.pinimg.com/originals/cb/9d/d2/cb9dd263099adac75b965e94d15b06b4.gif" alt="GUTS" width="100%"/>
 
 
 
