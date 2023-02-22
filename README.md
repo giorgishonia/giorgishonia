@@ -1,13 +1,8 @@
 ![teserk](https://user-images.githubusercontent.com/69073534/220652962-e5733548-2572-41a2-85a7-c45a76850817.gif)
 
 <h1>Socials</h1>
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)<a href="https://www.facebook.com/profile.php?id=100010171811268">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+<a href="https://www.facebook.com/profile.php?id=100010171811268">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monkey_gay_midget/)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shonoo.o/)
-
-<h1>Github Pages</h1>
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://giorgishonia.github.io/Rock_paper_scissors/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://giorgishonia.github.io/Etch-a-sketch/)
-
-
