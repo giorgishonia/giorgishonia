@@ -1,4 +1,4 @@
-<img src="https://github.com/giorgishonia/giorgishonia/assets/69073534/ec9ff6ad-4b40-44fa-8f8b-63627f6b548d" alt="mori" width="" height="350px"/>
+<img src="https://github.com/giorgishonia/giorgishonia/assets/69073534/ec9ff6ad-4b40-44fa-8f8b-63627f6b548d" alt="mori" width="100%" height="350px"/>
 
 <h1>Socials</h1>
 
