@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/ImpassionedClutteredFallowdeer-size_restricted.gif" alt="GUTS" width="50%" height="240px"/><img src="https://i.pinimg.com/originals/80/15/d0/8015d0f57ecd0b56d4592e10f58ba8dc.gif" alt="GRIFFITH" width="50%" height="240px"/>
+<img src="![climber](https://github.com/giorgishonia/giorgishonia/assets/69073534/ec9ff6ad-4b40-44fa-8f8b-63627f6b548d)" alt="mori" width="50%" height="240px"/>
 
 <h1>Socials</h1>
 
@@ -6,6 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monkey_gay_midget/)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shonoo.o/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jw1r4wu92e9l9w3twq2vs9g8o?si=ea0547c3bf914452)
+
 
 
 <h1>Github Pages</h1>
