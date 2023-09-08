@@ -5,12 +5,3 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/monkey_gay_midget/)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shonoo.o/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jw1r4wu92e9l9w3twq2vs9g8o?si=ea0547c3bf914452)
-
-
-
-<h1>Odin projects</h1>
-
-- Rock-paper-scissors game: [https://giorgishonia.github.io/Rock_paper_scissors/](https://giorgishonia.github.io/Rock_paper_scissors/)
-- Etch-a-Sketch project: [https://giorgishonia.github.io/Etch-a-sketch/](https://giorgishonia.github.io/Etch-a-sketch/)
-
-
