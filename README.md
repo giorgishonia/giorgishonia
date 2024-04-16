@@ -1,4 +1,4 @@
-<img src="https://github.com/giorgishonia/giorgishonia/assets/69073534/ec9ff6ad-4b40-44fa-8f8b-63627f6b548d" alt="mori" width="100%" height="550px"/>
+<img src="https://github.com/giorgishonia/giorgishonia/assets/69073534/ec9ff6ad-4b40-44fa-8f8b-63627f6b548d" alt="mori" width="100%" height="auto"/>
 <h1>Socials</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010171811268/)
